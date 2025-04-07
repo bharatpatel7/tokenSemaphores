@@ -1,7 +1,6 @@
 /*
 	NAME: Bharatkumar Garsondiya
-	ID: 1303213
-	MAIL: bgarsond@uoguelph.ca
+	MAIL: bharat.garsondiya2609@gmail.com
 
 */
 
